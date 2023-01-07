@@ -11,9 +11,3 @@ tensorflow
 git+https://github.com/Calysto/matlab_kernel
 octave-kernel
 
-bs4
-json5
-jsonpickle
-jsonschema
-selenium
-
