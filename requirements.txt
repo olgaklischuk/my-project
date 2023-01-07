@@ -1,3 +1,23 @@
-numpy==1.14.5
+numpy
+pandas
+matplotlib
+seaborn
+xlrd
+openpyxl
+scikit-learn
+#scikit-lego
+keras
+tensorflow
+git+https://github.com/Calysto/matlab_kernel
+octave-kernel
 
-#multiprocessing == 2.6.2.1
+bs4
+json5
+jsonpickle
+jsonschema
+jupyterlab-server
+pycparser
+PySocks
+scipy
+selenium
+webencodings
