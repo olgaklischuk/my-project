@@ -15,9 +15,5 @@ bs4
 json5
 jsonpickle
 jsonschema
-jupyterlab-server
-pycparser
-PySocks
-scipy
 selenium
-webencodings
+
