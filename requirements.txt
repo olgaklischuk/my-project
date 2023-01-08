@@ -10,6 +10,8 @@ keras
 tensorflow
 spacy
 networkx
+selenium
+webdriver_manager
 git+https://github.com/Calysto/matlab_kernel
 octave-kernel
 
