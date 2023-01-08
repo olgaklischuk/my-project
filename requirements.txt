@@ -8,6 +8,8 @@ scikit-learn
 #scikit-lego
 keras
 tensorflow
+spacy
+networkx
 git+https://github.com/Calysto/matlab_kernel
 octave-kernel
 
