@@ -12,6 +12,7 @@ spacy
 networkx
 selenium
 webdriver_manager
+chromedriver-autoinstaller
 git+https://github.com/Calysto/matlab_kernel
 octave-kernel
 
